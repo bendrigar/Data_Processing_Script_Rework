@@ -23,7 +23,7 @@ import re
 #   LB: Laboratory Blank
 #   LCS: Laboratory Control Sample
 #   LLLCS: Low Level Laboratory Control Sample
-#   LCSD: ??
+#   LCSD: Outdated, has been replaced by LCS/LLLCS; the script will still handle it though.
 #   CCV: Continuing Calibration Verification
 #   ISC: Instrument Sensitivity Check
 #   IS: Internal Standard
